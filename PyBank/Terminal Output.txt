@@ -1,0 +1,6 @@
+$ python main.py
+There are 86
+Total profits are $38382578.0
+the average change is: -2315.1176470588234
+the max is 1926159.0
+the min is -2196167.0
